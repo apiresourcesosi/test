@@ -1,1 +1,1 @@
-"This is a new file for GIT" 
+# I am learning to use git!
